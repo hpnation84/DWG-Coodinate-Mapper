@@ -1,0 +1,6 @@
+{
+    "allowed_users": [
+        { "username": "user1", "ip": "123.45.67.89", "license": "VALID" },
+        { "username": "user2", "ip": "98.76.54.32", "license": "EXPIRED" }
+    ]
+}
